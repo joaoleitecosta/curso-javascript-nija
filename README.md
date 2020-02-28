@@ -1,1 +1,1 @@
-"# curso-javascript-nija" 
+Curso de javascript ninja por Fernando Daciuk
